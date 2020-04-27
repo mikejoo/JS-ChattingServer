@@ -1,0 +1,22 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "Chat room using socket.io and node.js",
+  "main": "chatServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-spring-2020/module6-group-443901-466303.git"
+  },
+  "author": "Michael Joo, Alex Teng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse330-spring-2020/module6-group-443901-466303/issues"
+  },
+  "homepage": "https://github.com/cse330-spring-2020/module6-group-443901-466303#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
